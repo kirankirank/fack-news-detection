@@ -1,6 +1,6 @@
 # fack-news-detection
 Fack news
-Fake News📰 Classification WebApp using Python
+Fake News📰 (https://www.politifact.com/)Classification WebApp using Python
 forthebadge made-with-python
 
 
