@@ -41,8 +41,15 @@ And some of the libraries like
 * Matplotlib.pyplot as plt
 
 
+
+
 using this website i did the web scraping
-#https://www.politifact.com/ 
+#  https://www.politifact.com/ 
+
+
+
+
+
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
