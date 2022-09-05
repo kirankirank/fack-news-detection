@@ -1,6 +1,6 @@
 # fack-news-detection
 Fack news
-Fake News📰 (https://www.politifact.com/)Classification WebApp using Python
+Fake News📰 Classification WebApp using Python
 forthebadge made-with-python
 
 
@@ -41,6 +41,8 @@ And some of the libraries like
 * Matplotlib.pyplot as plt
 
 
+using this website i did the web scraping
+#https://www.politifact.com/ 
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
