@@ -2,17 +2,18 @@
 Fack news
 Fake News📰 Classification WebApp using Python
 forthebadge made-with-python
-Python 3.7
+
 
 
 
 
 
 Run Fake_News_Det.py, go to the http://127.0.0.1:5000/
-If you want to build your model with the some changes, you can check the Fake_News_Detection.ipynb.
+If you want to build your model with the some changes, you can check the project.ipynb.
 You can check web app is working fine. Sometimes predictions may be wrong.
 Screenshots
 
+![image](https://user-images.githubusercontent.com/46403000/188486962-9c28dfbc-c1a0-46c1-a14b-ef86a8856db2.png)
 
 
 
@@ -23,6 +24,20 @@ About
 Fake News Classification WebApp using Flask & Python
 
 Resources
+* Python 3.7
+* jupyter
+* Flask
+* BeautifulSoup
+And some of the libraries like 
+* sklearn
+* re
+* Pandas
+* Numpy 
+* Requests
+* Nltk
+* Seaborn
+* wordcloud
+* Matplotlib.pyplot as plt
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
