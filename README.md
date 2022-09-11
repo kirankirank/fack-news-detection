@@ -13,7 +13,7 @@ If you want to build your model with the some changes, you can check the project
 You can check web app is working fine. Sometimes predictions may be wrong.
 Screenshots
 
-![image](https://user-images.githubusercontent.com/46403000/188486962-9c28dfbc-c1a0-46c1-a14b-ef86a8856db2.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/46403000/189540947-812515be-5949-48f1-bf14-94c5c55592a6.png)
 
 
 
